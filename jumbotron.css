@@ -1,0 +1,9 @@
+/* Global Styles */
+.container {
+  display: flex;
+}
+
+.foot {
+  text-align: left;
+  font-size: 18pt;
+}
